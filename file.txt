@@ -1,0 +1,16 @@
+This is more like a ReadMe file for what this project is all all about.
+
+Its just a simple one-page website containing a header section which houses the header text,
+a section and an aside content containing the nav items, and lastly a footer all enclosed in
+a container div.
+
+
+A breakdown of what is required.
+    1. a container div
+        2. a header div
+            3. an h1 element containing the heading text and maybe logo
+        4. a content div
+            5. an aside div for the navigations and
+            6. a secton / main section div containing some dummy texts
+        7. a footer cotaining some copyright texts and address.
+    8. the container div end here.
